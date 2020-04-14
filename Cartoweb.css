@@ -1,0 +1,10 @@
+.u-section-1 .u-sheet-1 {min-height: 500px}
+.u-section-1 .u-custom-html-1 {min-height: 1007px; height: auto; margin: 0 628px 60px -58px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-custom-html-1 {margin-right: 528px; width: 570px} }
+
+@media (max-width: 991px){ .u-section-1 .u-custom-html-1 {margin-right: 368px} }
+
+@media (max-width: 767px){ .u-section-1 .u-custom-html-1 {margin-left: 0; margin-right: 0; width: 540px} }
+
+@media (max-width: 575px){ .u-section-1 .u-custom-html-1 {width: 340px} }
